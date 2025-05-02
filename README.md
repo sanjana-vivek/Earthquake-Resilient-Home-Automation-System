@@ -55,8 +55,8 @@ The system will integrate with a **mobile app** to show:
 * MQ-2 Gas Sensor
 * Servo Motor (SG90)
 * Solenoid Door Lock
-* 2-Channel Relay Module
-* LED, Buzzer
+* 2-Channel 5V DC Relay Module
+* Red LED, Buzzer
 * External Power Supply for AC Bulb
 * 220V AC Bulb for simulation
 * Jump wires, Breadboard
@@ -134,10 +134,14 @@ The system will integrate with a **mobile app** to show:
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
 *Flow Diagram* 
 ![download](https://github.com/user-attachments/assets/65947618-defc-4cee-9988-01cde5293b59)
+
+
+*Assembled circuit* 
+![WhatsApp Image 2025-05-02 at 21 11 33](https://github.com/user-attachments/assets/7ea0e1e5-1bdf-4053-aa1a-9dc00798e9cd)
 
 ---
 
