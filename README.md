@@ -136,16 +136,11 @@ The system will integrate with a **mobile app** to show:
 
 ## 📸 Screenshots (optional)
 
-*Add circuit images, app UI mockups, or simulation video links here.*
+*Flow Diagram* 
+![download](https://github.com/user-attachments/assets/65947618-defc-4cee-9988-01cde5293b59)
 
 ---
 
-## 🤝 Contributors
-
-* Sanjana Vivek – Lead Developer & Hardware Integrator
-* \[Other team names, if any]
-
----
 
 ## 📜 License
 
