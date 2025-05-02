@@ -58,6 +58,7 @@ The system will integrate with a **mobile app** to show:
 * 2-Channel 5V DC Relay Module
 * Red LED, Buzzer
 * External Power Supply for AC Bulb
+* External Power of 12V (8 1.5V batteries) for Solenoid Door Lock
 * 220V AC Bulb for simulation
 * Jump wires, Breadboard
 
